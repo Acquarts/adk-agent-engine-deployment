@@ -3,8 +3,8 @@
 > Production-ready deployment solution for Google ADK Agents to Vertex AI Agent Engine
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-English%20%7C%20Español-brightgreen.svg)](#documentation)
+[![License](https://img.shields.io/badge/license-apache2.0-green.svg)](LICENSE)
+
 
 ---
 
