@@ -77,15 +77,11 @@ python test_agent.py
 
 ## 📚 Documentation
 
-### 📖 English Documentation
+### 📖 Documentation
 - **[Complete Deployment Guide](docs/en/ADK_DEPLOYMENT_GUIDE.md)** - Detailed explanations and examples
 - **[Quick Reference Cheatsheet](docs/en/ADK_DEPLOYMENT_CHEATSHEET.md)** - Fast lookup
 - **[README](docs/en/README.md)** - How to use the templates
 
-### 📖 Documentación en Español
-- **[Guía Completa de Deployment](docs/es/ADK_DEPLOYMENT_GUIDE.md)** - Explicaciones detalladas y ejemplos
-- **[Cheatsheet de Referencia Rápida](docs/es/ADK_DEPLOYMENT_CHEATSHEET.md)** - Consulta rápida
-- **[README](docs/es/README.md)** - Cómo usar los templates
 
 ---
 
@@ -259,7 +255,6 @@ It helps others discover this solution and motivates continued maintenance.
 ---
 
 **Quick Links:**
-- [📖 English Docs](docs/en/README.md)
-- [📖 Docs en Español](docs/es/README.md)
+- [📖 Docs](docs/en/README.md)
 - [🚀 Quick Start](#quick-start)
 - [🐛 Report Bug](https://github.com/yourusername/adk-agent-engine-deployment/issues)
