@@ -40,13 +40,10 @@ This toolkit provides **programmatic deployment templates** that bypass CLI bugs
 ### 1. Copy Templates to Your Project
 
 ```bash
-# English templates
+# Templates
 cp templates/deploy_agent.py your_project/
 cp templates/test_agent.py your_project/
 
-# Spanish templates  
-cp templates/deploy_agent.py your_project/  # (versión en español)
-cp templates/test_agent.py your_project/
 ```
 
 ### 2. Configure and Deploy
