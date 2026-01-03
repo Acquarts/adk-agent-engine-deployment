@@ -88,7 +88,6 @@ python test_agent.py
 - ✅ **Production-ready templates** - Copy, configure, deploy
 - ✅ **Comprehensive error handling** - Clear error messages
 - ✅ **Automated testing scripts** - Verify deployments work
-- ✅ **Bilingual documentation** - English & Spanish
 - ✅ **Battle-tested** - Used in production environments
 
 ---
