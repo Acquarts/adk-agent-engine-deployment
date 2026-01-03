@@ -75,9 +75,9 @@ python test_agent.py
 ## 📚 Documentation
 
 ### 📖 Documentation
-- **[Complete Deployment Guide](docs/en/ADK_DEPLOYMENT_GUIDE.md)** - Detailed explanations and examples
-- **[Quick Reference Cheatsheet](docs/en/ADK_DEPLOYMENT_CHEATSHEET.md)** - Fast lookup
-- **[README](docs/en/README.md)** - How to use the templates
+- **[Complete Deployment Guide](docs/ADK_DEPLOYMENT_GUIDE.md)** - Detailed explanations and examples
+- **[Quick Reference Cheatsheet](docs/ADK_DEPLOYMENT_CHEATSHEET.md)** - Fast lookup
+- **[README](docs/README.md)** - How to use the templates
 
 
 ---
